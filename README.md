@@ -1,1 +1,1 @@
-# Corrected-Lithology-Prediction
+# simple-heart-disease-prediction
